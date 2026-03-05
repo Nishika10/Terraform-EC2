@@ -1,0 +1,9 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+terra-key-ec2
+terra-key-ec2.pub
+*.pem
+*.pub
+crash.log
+.DS_Store
